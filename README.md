@@ -1,11 +1,11 @@
-# Bold360AI-SDK
+# Bold360AI-iOS-SDK
 
 ### Demo: [Demo repo](https://github.com/nanorepsdk/NRSDK-iOS-Samples).
 
 *If you are a Bold360AI customer, please contact your Bold360AI Customer Success Manager to help facilitate use of this component.*
 
 # Overview
-The **Bold360AI-SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
+The **Bold360AI-iOS-SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
 
 * Bot API
 * Search
