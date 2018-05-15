@@ -14,7 +14,7 @@ The **Bold360AI-iOS-SDK** is a native iOS component. The SDK is intended to be i
 * Speech Recognition
 
 ## Usage Guides
-Please see our [Bold360AI-SDK Documentation site](https://github.com/nanorepsdk/NanorepUI/wiki).
+Please see our [Bold360AI-iOS-SDK Documentation site](https://github.com/nanorepsdk/NanorepUI/wiki).
 
 
 ## License and Copyright Information
