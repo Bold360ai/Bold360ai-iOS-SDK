@@ -1,4 +1,4 @@
-# Bold360AI-iOS-SDK
+# bold360ai_ios_sdk
 
 ### Demo: [Demo repo](https://github.com/Bold360ai/Bold360ai-iOS-SDK-samples).
 
