@@ -1,7 +1,7 @@
-# bold360ai iOS SDK
-
 <img src="https://ga1.imgix.net/logo/o/289-1505472411-9805512?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format"
  alt="bold360ai logo" title="bold360ai" align="right" /> 
+ 
+# bold360ai iOS SDK
 
 ## Overview
 The **bold360ai iOS SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
