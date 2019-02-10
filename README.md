@@ -1,7 +1,8 @@
-<img src="https://ga1.imgix.net/logo/o/289-1505472411-9805512?ixlib=rb-1.0.0&ch=Width%2CDPR&auto=format"
- alt="bold360ai logo" title="bold360ai" align="right" /> 
- 
-# bold360ai iOS SDK
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Note: A new version of the Bold360 AI SDK (V3) is available. The new SDK is fully configurable and introduces significant improvements, including the integration between the AI SDK and the live agent SDK.
+To begin a new project based on the Bold360 AI SDK, go to the [Bold360 AI page](https://developer.bold360.com/help/EN/Bold360API/Bold360API/c_sdk_combined_ios_header.html).
+Important: Previous versions of the Bold360 AI SDK will not be supported.
+
+# Conversational iOS SDK
 
 ## Overview
 The **bold360ai iOS SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
