@@ -1,20 +1,18 @@
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Important: Previous versions of the Bold360 AI SDK will not be supported.**
->Note: A new version of the Bold360 AI SDK (V3) is available. The new SDK is fully configurable and introduces significant improvements, including the integration between the AI SDK and the live agent SDK.
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) **Important: Previous versions of the Conversational SDK will not be supported.**
+>Note: A new version of the Bold360 AI SDK (V3) is available. 
+>The new SDK is fully configurable and introduces significant improvements, including the integration between the AI SDK and the live agent SDK.
 To begin a new project based on the Bold360 AI SDK, go to the [Bold360 AI page](https://developer.bold360.com/help/EN/Bold360API/Bold360API/c_sdk_combined_ios_header.html).
 
 # Conversational iOS SDK
 
 ## Overview
-The **bold360ai iOS SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
+The **Conversational iOS SDK** is a native iOS component. The SDK is intended to be integrated in any iOS application and includes the following features:
 
 * Bot API
 * Search
 * Conversation
 * Accessibility
 * Speech Recognition
-
-## Usage Guides
-Please see our [Bold360ai-iOS-SDK Documentation site](https://github.com/Bold360ai/Bold360ai-iOS-SDK/wiki).
 
 ## Questions or need help?
 
